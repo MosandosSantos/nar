@@ -1,0 +1,6 @@
+.footer-bg {
+  position: relative;
+  min-height: 400px;
+  z-index: 0;
+  background-color: #1c0101;
+}
